@@ -1,0 +1,1 @@
+document.getElementById("effect2").children[0].style.color="red";
